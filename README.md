@@ -1,4 +1,4 @@
-# empty-project
+# Boilerplate Svelte
 
 Empty project.
 
@@ -22,7 +22,7 @@ To create a development build:
 npm run build-dev
 ```
 
-To serve at http://localhost:8080:
+To run at http://localhost:8080:
 
 ```sh
 npm run start
